@@ -55,7 +55,7 @@ int main()
         return 0;
 }
 
-#latiahan3.cpp : mencari bilangan terbesar dari dua bilanngan yang di inputkan
+# latiahan3.cpp : mencari bilangan terbesar dari dua bilanngan yang di inputkan
 
 *Alur algoritma*
 a. masukan kedua bilanngan variable angka1,angka2; 
