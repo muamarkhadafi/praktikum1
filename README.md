@@ -3,7 +3,7 @@
 # LATIHAN1.cpp : Program menghitung luas persegi panjang
 
 *Alur algoritma*
-a. Masukan nilai panjang (p) persegi oanjang.;
+a. Masukan nilai panjang (p) persegi panjang.;
 b. masukan nilai lebar (l) persegi panjang.;
 c. masukan rumus luas(luas)= panjang(p) x lebar(l);
 d. tampilkan hasil luas persegi panjang;
